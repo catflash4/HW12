@@ -1,4 +1,4 @@
-public class Main {
+public class App {
     public static void main(String[] args) {
         Author author1 = new Author("Стивен", "Кинг");
         Author author2 = new Author("Братья", "Стругацкие");
